@@ -58,8 +58,8 @@ Data analysis and benchmarking
 <tr>
 <td width="50%">
 
-**[IoT](https://github.com/VexWingDev/IoT)**
-Lecture code from IoT coursework
+**[RF-CLOWN](https://github.com/VexWingDev/IoT_exam)**
+IoT Exam Program
 `C`
 
 </td>
