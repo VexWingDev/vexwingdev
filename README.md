@@ -58,8 +58,8 @@
 <tr>
 <td width="50%">
 
-**[IoT](https://github.com/VexWingDev/IoT)**
-Код с лекций по IoT
+**[RF-CLOWN](https://github.com/VexWingDev/IoT_exam)**
+Программа экзамена по IoT
 `C`
 
 </td>
